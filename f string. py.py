@@ -13,4 +13,6 @@ def moneyformat(n1):
     return f"${n1:.2f}"
 
 print(moneyformat(29.13847))
-print(type(1.99))
+
+def mon_vert(n1):
+    return 
